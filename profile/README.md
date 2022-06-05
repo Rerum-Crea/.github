@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rerum-Crea/.github/main/art/Logo-Header.png" alt="Logo Header" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/Rerum-Crea/.github/main/art/Headers/Logo-Header.png" alt="Logo Header" width="100%" height="100%">
 <br>
 
 ## Why does this organisation exists
